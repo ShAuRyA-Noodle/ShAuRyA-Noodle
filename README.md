@@ -16,7 +16,7 @@
 
 ---
 
-I build production-grade **agentic AI**, **edge AI**, and **full-stack platforms**, owned from the first commit to the last deploy. I care about systems that are real, honest, and fast. The one line I refuse to cross is fake data: if a number is on screen, it is true, or the screen stays empty.
+I build production-grade **agentic AI**, **edge AI**, and **full-stack platforms**, owned from the first commit to the last deploy. I think about systems that are real, honest, and fast. The one line I refuse to cross is fake data: if a number is on screen, it is true, or the screen stays empty.
 
 - 🏁 &nbsp;**Meta PyTorch OpenEnv Hackathon 2026 — Grand Finalist**, cleared Round 1 of 52,000+ developers (Team Sleep Token)
 - 🧮 &nbsp;**Google "The Big Code" 2026 — Top 1,500**
