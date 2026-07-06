@@ -1,22 +1,18 @@
 <h1 align="center">Shaurya Punj</h1>
 
-<p align="center">
-  <a href="https://shauryapunj.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=720&lines=AI%2FML+%C2%B7+Agentic+AI+%C2%B7+Full-Stack+Engineer;Production+agentic+systems%2C+solo%2C+end+to+end.;Edge+AI+running+on+real+hardware.;No+fake+data.+No+dead+demos.+Shipped." alt="typing"/>
-  </a>
-</p>
+<p align="center"><b>AI/ML &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Full-Stack Engineer</b> &nbsp;·&nbsp; India</p>
+<p align="center">Building production agentic AI, edge AI, and full-stack platforms, solo and end to end.</p>
 
 <p align="center">
   <a href="https://shauryapunj.com"><img src="https://img.shields.io/badge/Portfolio-shauryapunj.com-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/shaurya-punj-2287513b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/ShAuRyANoodle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:workwithshaurya10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ShAuRyA-Noodle&style=for-the-badge&color=E10600&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
 ---
 
-I build production-grade **agentic AI**, **edge AI**, and **full-stack platforms**, owned from the first commit to the last deploy. I think about systems that are real, honest, and fast. The one line I refuse to cross is fake data: if a number is on screen, it is true, or the screen stays empty.
+I build production-grade **agentic AI**, **edge AI**, and **full-stack platforms**, owned from the first commit to the last deploy. The one line I refuse to cross is fake data: if a number is on screen, it is true, or the screen stays empty.
 
 - 🏁 &nbsp;**Meta PyTorch OpenEnv Hackathon 2026 — Grand Finalist**, cleared Round 1 of 52,000+ developers (Team Sleep Token)
 - 🧮 &nbsp;**Google "The Big Code" 2026 — Top 1,500**
@@ -30,10 +26,10 @@ I build production-grade **agentic AI**, **edge AI**, and **full-stack platforms
 |---|---|---|
 | **APEX** | A real-time Formula 1 platform: live timing, 75 seasons of data (1950 to 2026, 592k laps), and grounded AI. Never fabricates a number. | [Live](https://apex-f1-five.vercel.app) · [Code](https://github.com/ShAuRyA-Noodle/Apex-F1) |
 | **AutoFlow** | An operating system for hospital OPDs: a real-time patient-flow state machine, nine role consoles, and a human-confirmed AI layer. | [Live](https://autoflow-opd.vercel.app) · [Code](https://github.com/ShAuRyA-Noodle/AutoFlow-OPD) |
-| **NyayaSetu** | Offline-first, multilingual AI legal-aid for rural India. On-device inference, zero cloud dependency. | [Case study](https://shauryapunj.com/work/nyaya-setu) |
+| **NyayaSetu** | Offline-first, multilingual AI legal-aid for rural India. On-device inference, zero cloud dependency. | [Code](https://github.com/ShAuRyA-Noodle/NyayaSetu-Offline-Multilingual-AI) · [Case study](https://shauryapunj.com/work/nyaya-setu) |
 | **NeuraMed** | A clinical, multi-agent AI healthcare platform. | [Code](https://github.com/ShAuRyA-Noodle/NEURAMED-AI-Healthcare-System) |
 | **Relict** | A reproducible bioinformatics platform: millions of reference sequences, an 8-stage pipeline. | [Code](https://github.com/ShAuRyA-Noodle/Relict) |
-| **SOLPOP** | Multimodal AI defect detection across a 21-defect taxonomy. | [Case study](https://shauryapunj.com/work/solpop) |
+| **SOLPOP** | Multimodal AI defect detection across a 21-defect taxonomy. | [Code](https://github.com/ShAuRyA-Noodle/Solpop) · [Case study](https://shauryapunj.com/work/solpop) |
 
 ---
 
@@ -50,23 +46,13 @@ I build production-grade **agentic AI**, **edge AI**, and **full-stack platforms
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-&nbsp; Agentic AI · Groq · Gemini · Hugging Face · Edge AI · RSC
+
+Agentic AI &nbsp;·&nbsp; Groq &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Hugging Face &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; RSC
 
 ---
 
-### 📊 By the numbers
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShAuRyA-Noodle&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=E10600&icon_color=E10600&text_color=8a9296&bg_color=0b0b0c" alt="stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShAuRyA-Noodle&hide_border=true&theme=dark&background=0b0b0c&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=DFE4E6&dates=8a9296" alt="streak"/>
+  📊 &nbsp;Live contribution activity and full case studies &nbsp;→&nbsp; <b><a href="https://shauryapunj.com">shauryapunj.com</a></b>
+  <br/><br/>
+  <i>Open to research, AI/ML, and full-stack roles.</i>
 </p>
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShAuRyA-Noodle&layout=compact&hide_border=true&theme=dark&title_color=E10600&text_color=8a9296&bg_color=0b0b0c&langs_count=8" alt="top languages"/>
-</p>
-
-<p align="center">
-  <i>Open to research, AI/ML, and full-stack roles.</i><br/>
-  <b><a href="https://shauryapunj.com">shauryapunj.com</a></b>
-</p>
-
-
