@@ -69,4 +69,3 @@ I build production-grade **agentic AI**, **edge AI**, and **full-stack platforms
   <b><a href="https://shauryapunj.com">shauryapunj.com</a></b>
 </p>
 
-<!-- co-maintained by Shaurya Punj -->
